@@ -111,9 +111,9 @@ echo
 echo -e "${GREEN}Se todas as verificações estão OK, você pode prosseguir com:${NC}"
 echo
 echo -e "${YELLOW}# Baixar e executar script de instalação${NC}"
-echo -e "wget https://raw.githubusercontent.com/seu-repo/docmanage/main/scripts/install-ubuntu.sh"
+echo -e "wget https://raw.githubusercontent.com/natanrslima/ribeiroservice/refs/heads/main/install-ubuntu.sh"
 echo -e "chmod +x install-ubuntu.sh"
 echo -e "sudo ./install-ubuntu.sh"
 echo
 echo -e "${YELLOW}# Ou executar diretamente${NC}"
-echo -e "curl -fsSL https://raw.githubusercontent.com/seu-repo/docmanage/main/scripts/install-ubuntu.sh | sudo bash"
+echo -e "curl -fsSL https://raw.githubusercontent.com/natanrslima/ribeiroservice/refs/heads/main/install-ubuntu.sh | sudo bash"
